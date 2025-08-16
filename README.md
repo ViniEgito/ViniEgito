@@ -7,18 +7,13 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Formações em UX Design (Google) e JavaScript (Senac)  
 💡 Apaixonado por criar soluções digitais que unem design, performance e experiência do usuário
 
----
-
-💬 Sobre mim
-
-`html
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <p><strong>Transformando ideias em experiências digitais incríveis!</strong></p>
 </div>
 `
 
-📫 Contato: vviniciusegito@hotmail.com  
+📫 Contato: v_viniciusegito@hotmail.com  
 😄 Pronomes: Ele/Dele  
 ________________________________________
 Habilidades e Ferramentas
