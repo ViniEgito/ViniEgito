@@ -1,12 +1,25 @@
 <h1 align="center">Olá 👋, eu sou o Vinícius Egito</h1>
 <h3 align="center">Apaixonado por Desenvolvimento Web e Design Front-End</h3>
 
-- 🔭 Atualmente sou Gerente de Marketing no Colégio Madre Paula Montalt, onde gerencio e crio conteúdos para redes sociais e o site, além de executar campanhas e realizar pesquisas de mercado.**
-- 🌱 Estou estudando Desenvolvimento Front-End/Web Design no SENAI e UX Design no Google, buscando aprimorar minhas habilidades em criação de páginas web e design de interfaces. Além disso, estou me aprofundando nas bases de Python, para futuramente unir esse conhecimento ao desenvolvimento web de uma forma completa.**
-- 💬 Tenho experiência em Marketing Digital, Criação de Conteúdos, e Peças Gráficas, além de interesse em colaborar com projetos que envolvam design web e desenvolvimento front-end.**
-- 👯 Estou à procura de colaborar em projetos que envolvam desenvolvimento web, UX/UI Design e aplicações que envolvam Python e front-end.**
-- 📫 Como entrar em contato comigo: v_viniciusegito@hotmail.com**
-- 😄 Pronomes: Ele/Dele**
+👨‍💻 Desenvolvedor Full Stack Júnior | UX/UI Design | Marketing Digital
+
+🚀 CEO da A&VTech e Gerente de Marketing Digital no Colégio Madre Paula Montalt  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | Formações em UX Design (Google) e JavaScript (Senac)  
+💡 Apaixonado por criar soluções digitais que unem design, performance e experiência do usuário
+
+---
+
+💬 Sobre mim
+
+`html
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <p><strong>Transformando ideias em experiências digitais incríveis!</strong></p>
+</div>
+`
+
+📫 Contato: vviniciusegito@hotmail.com  
+😄 Pronomes: Ele/Dele  
 ________________________________________
 Habilidades e Ferramentas
 - Linguagens: HTML, CSS, JavaScript, Python.
