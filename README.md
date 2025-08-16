@@ -9,7 +9,6 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  <p><strong>Transformando ideias em experiências digitais incríveis!</strong></p>
 </div>
 `
 
